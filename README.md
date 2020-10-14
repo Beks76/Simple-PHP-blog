@@ -7,5 +7,5 @@ Very easy to implement blog in PHP with MySQL
 4 - Write Comments <br>
 5 - Edit personal data <br>
 
-
+<br>
 <p> All source code in 'master' branch </p>
