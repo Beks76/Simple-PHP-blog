@@ -6,3 +6,6 @@ Very easy to implement blog in PHP with MySQL
 3 - Add/Delete posts <br>
 4 - Write Comments <br>
 5 - Edit personal data <br>
+
+
+<p> All source code in 'master' branch </p>
