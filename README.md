@@ -1,6 +1,6 @@
 # Simple-PHP-blog
 Very easy to implement blog in PHP with MySQL
-<h3>Functionality</h3>: <br>
+<h3>Functionality:</h3> <br>
 1 - Sign In <br>
 2 - Sign Up <br>
 3 - Add/Delete posts <br>
