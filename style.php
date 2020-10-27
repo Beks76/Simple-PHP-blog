@@ -1,25 +1,7 @@
-/* Specifications */
+<style>
 
-.msg {
-    border: 2px solid #000;
-    border-radius: 3px;
-    padding: 10px;
-    text-align: center;
-    font-weight: bold;
-}
+/* Specification */
 
-.error {
-    border: 2px solid #ff4332 !important;
-}
-
-.none {
-    display: none;
-}
-
-.btn {
-    background-color: #000;
-    color: #fff;
-}
 
 /* Header */
 
@@ -28,8 +10,6 @@
     color: #fff;
     padding: 20px;
 }
-
-/* Navbar */
 
 .navigation {
     color: #fff;
@@ -40,7 +20,7 @@
     color: #fff;
 }
 
-/* Sign in */
+/* Sign in page */
 
 .main-head{
     height: 150px;
@@ -107,13 +87,10 @@
     font-weight: 300;
 }
 
-
-/* Home */
-
-.box {
-    display: flex;
+.btn-black{
+    background-color: #000;
+    color: #fff;
 }
 
-.cat {
-    margin-right: 40px;
-}
+
+</style>
