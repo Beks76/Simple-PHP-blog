@@ -15,7 +15,7 @@ Very easy to implement blog in PHP with MySQL
 <h1>Attention</h1>
 
 I have updated the blog. to see the changes go to the 'master' branch. <br> 
-<h3>What's new I added</h3>: <br>
+<h3>What's new I added:</h3> <br>
 1 - Jquery get & post methods(Ajax) <br>
 2 - Password encryption <br>
 3 - All operations occur without page reload <br>
