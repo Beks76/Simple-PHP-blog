@@ -8,4 +8,4 @@ Very easy to implement blog in PHP with MySQL
 5 - Edit personal data <br>
 
 <br>
-<p> All source code in 'master' branch </p>
+<p> All source code in '#1version' branch </p>
