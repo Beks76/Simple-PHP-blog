@@ -13,7 +13,6 @@ Very easy to implement blog in PHP with MySQL
 <br>
 
 <h1>Attention</h1>
-<hr>
 
 I have updated the blog. to see the changes go to the 'master' branch. <br> 
 <h3>What's new I added</h3>: <br>
